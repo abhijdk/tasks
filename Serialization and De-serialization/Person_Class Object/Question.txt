@@ -1,0 +1,18 @@
+Write a Program in Java to Perform Serialization and De-serialization operation on ArrayList Object.
+Take a BLC class Person
+Instance variables
+personId – private – Integer
+personName – private – String
+personAddress – private - String
+Take a parameterized constructor to initialize the instance variables
+Take a Method getPersonObject()
+Method Name - getPersonObject ()
+Parameter - No Parameter
+Access Modifier - public and static
+Return type - Person
+This method should take the Person data from client, create and return Person object from this
+method.
+Override toString() method to print Person class properties or variables.
+Take an ELC class StoreObject Inside the main method create a for loop which will read the Person
+object with user choice and Store the Person object to a file called Person.txt Take another ELC class
+RetrieveObject This class will retrieve the Player Object from file and print the Person information data
