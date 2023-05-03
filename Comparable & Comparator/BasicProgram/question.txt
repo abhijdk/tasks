@@ -1,4 +1,0 @@
- * Write a ArrayList Program 
- * (in this program to take Generic as Integer)
- * & try to display that program with Descending Order
- * by using Comparator Interface
