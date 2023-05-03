@@ -1,0 +1,17 @@
+
+ Write a Program to perform sorting operation on MyCustomer class using ArrayList
+  and by implementing Comparator interface.
+Create a BLC class MyCustomer
+Instance variables:
+cId-private-Integer
+cName-private-String
+cBill-private-Double
+Create a parameterized constructor to initialize the instance variable of MyCustomer class
+Implement Comparator interface to write the logic to sort the MyCustomer class based on 
+the following criteria
+a) Based on MyCustomer Id number
+b) Based on MyCustomer name
+
+Create an ELC class MyCustomerComparator which contains main method, 
+create ArrayList object to hold
+MyCustomer data as well as sort the MyCustomer data object based on the above criteria
