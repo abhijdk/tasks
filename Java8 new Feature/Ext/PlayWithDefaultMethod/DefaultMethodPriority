@@ -1,0 +1,3 @@
+ * Default methods are having low priority 
+ * than normal methods (Concrete Method). 
+ * class is having more power than interface
